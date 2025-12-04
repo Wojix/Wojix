@@ -17,4 +17,4 @@ Currently exploring **Python**, **JavaScript**, and trying my best to study **En
 - Become fluent enough in English to code and communicate without breaking my brain  
 - Build more projects that actually look cool
 
-Thanks for stopping by!
+Thanks for stopping by! [cat](https://raw.githubusercontent.com/Wojix/assets/refs/heads/main/others/nyancat.gif)
