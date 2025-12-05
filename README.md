@@ -18,3 +18,4 @@ Currently exploring **Python**, **JavaScript**, and trying my best to study **En
 - Build more projects that actually look cool
 
 Thanks for stopping by!
+![icon](https://avatars.githubusercontent.com/u/243921422?s=400&u=464e297efc285ac70fcd5b6f060a012ca70ea40d&v=4)
