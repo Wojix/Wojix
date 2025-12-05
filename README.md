@@ -8,10 +8,10 @@ Currently exploring **Python**, **JavaScript**, and trying my best to study **En
 - Playing around with small web tools and APIs
 - Slowly improving my English skills through projects and reading
 
-## Tech I'm into
-- **Python** for scripts and simple APIs  
-- **JavaScript** for front-end experiments  
-- Always curious about new stuff
+## I studying
+- **Python**
+- **JavaScript**
+- **html**
 
 ## Goals
 - Become fluent enough in English to code and communicate without breaking my brain  
