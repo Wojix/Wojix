@@ -4,8 +4,11 @@ I'm a student who loves building things on the internet.
 Currently exploring **Python**, **JavaScript**, and trying my best to study **English** (lol).
 
 ## Contact
+Discord #xwqjix
 [Padlet](https://padlet.com/thinkingface)
-
+### Minecraft
+Java    Quqx
+Bedrock QuqxXD
 ## I studying
 - **Python**
 - **JavaScript**
