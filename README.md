@@ -1,15 +1,15 @@
 # Hi, I'm **[Wojix](https://github.com/Wojix)** 👋
 
-# ℹ️About me
+# ℹ️ About me
 I primarily code in HTML, Python, and C++.
 
-## ✉️Contact
+## ✉️ Contact
 Discord #xwqjix <br> Wojix2025@outlook.com
 
-## 🌎Social
+## 🌎 Social
  [Padlet](https://padlet.com/thinkingface) <br> [Scratch](https://scratch.mit.edu/users/-Wojix-/)
 
-### ⛏️Minecraft
+## ⛏️ Minecraft
 Java    Quqx <br> Bedrock QuqxXD
 
 ## 📖I studying
