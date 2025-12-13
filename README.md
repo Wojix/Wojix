@@ -1,13 +1,16 @@
 # Hi, I'm **[Wojix](https://github.com/Wojix)** 👋
 
+# About me
 I'm a student who loves building things on the internet.  
 Currently exploring **Python**, **JavaScript**, and trying my best to study **English** (lol).
 
 ## Contact
 Discord #xwqjix
 [Padlet](https://padlet.com/thinkingface)
+[Scratch](https://scratch.mit.edu/users/-Wojix-/)
 ### Minecraft
 Java    Quqx <br> Bedrock QuqxXD
+
 ## I studying
 - **Python**
 - **JavaScript**
