@@ -1,8 +1,7 @@
 # Hi, I'm **[Wojix](https://github.com/Wojix)** 👋
 
-# About me
-I'm a student who loves building things on the internet.  
-Currently exploring **Python**, **JavaScript**, and trying my best to study **English** (lol).
+# ℹ️About me
+I primarily code in HTML, Python, and C++.
 
 ## Contact
 Discord #xwqjix <br> [Padlet](https://padlet.com/thinkingface) <br> [Scratch](https://scratch.mit.edu/users/-Wojix-/)
