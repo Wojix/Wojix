@@ -5,9 +5,7 @@ I'm a student who loves building things on the internet.
 Currently exploring **Python**, **JavaScript**, and trying my best to study **English** (lol).
 
 ## Contact
-Discord #xwqjix
-[Padlet](https://padlet.com/thinkingface)
-[Scratch](https://scratch.mit.edu/users/-Wojix-/)
+Discord #xwqjix <br> [Padlet](https://padlet.com/thinkingface) <br> [Scratch](https://scratch.mit.edu/users/-Wojix-/)
 ### Minecraft
 Java    Quqx <br> Bedrock QuqxXD
 
