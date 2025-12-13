@@ -4,8 +4,10 @@
 I primarily code in HTML, Python, and C++.
 
 ## ✉️Contact
-Discord #xwqjix
-Wojix2025@outlook.com
+Discord #xwqjix <br> Wojix2025@outlook.com
+
+## 🌎Social
+ [Padlet](https://padlet.com/thinkingface) <br> [Scratch](https://scratch.mit.edu/users/-Wojix-/)
 
 ### Minecraft
 Java    Quqx <br> Bedrock QuqxXD
