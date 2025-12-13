@@ -9,10 +9,10 @@ Discord #xwqjix <br> Wojix2025@outlook.com
 ## 🌎Social
  [Padlet](https://padlet.com/thinkingface) <br> [Scratch](https://scratch.mit.edu/users/-Wojix-/)
 
-### Minecraft
+### ⛏️Minecraft
 Java    Quqx <br> Bedrock QuqxXD
 
-## I studying
+## 📖I studying
 - **Python**
 - **JavaScript**
 - **html**
