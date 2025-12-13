@@ -3,6 +3,9 @@
 I'm a student who loves building things on the internet.  
 Currently exploring **Python**, **JavaScript**, and trying my best to study **English** (lol).
 
+## Contact
+[Padlet](https://padlet.com/thinkingface)
+
 ## I studying
 - **Python**
 - **JavaScript**
