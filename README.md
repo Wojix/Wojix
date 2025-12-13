@@ -12,6 +12,7 @@ Java    Quqx <br> Bedrock QuqxXD
 - **Python**
 - **JavaScript**
 - **html**
+- **python**
 
 Thanks for stopping by!
 ![thinking](https://avatars.githubusercontent.com/u/243921422?s=400&u=464e297efc285ac70fcd5b6f060a012ca70ea40d&v=4)
