@@ -6,7 +6,7 @@ Currently exploring **Python**, **JavaScript**, and trying my best to study **En
 ## Contact
 Discord #xwqjix
 [Padlet](https://padlet.com/thinkingface)
-<br> ### Minecraft
+### Minecraft
 Java    Quqx
 Bedrock QuqxXD
 ## I studying
