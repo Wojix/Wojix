@@ -2,7 +2,7 @@ name: Update Duolingo League
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # 6時間ごと
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,11 +13,25 @@ jobs:
 
       - name: Fetch Duolingo profile
         run: |
-          curl -s https://www.duolingo.com/users/QuqzXD > profile.json
+          curl -s \
+            -H "User-Agent: Mozilla/5.0" \
+            -H "Accept: application/json" \
+            https://www.duolingo.com/users/QuqzXD > profile.json
+
+      - name: Debug response
+        run: |
+          file profile.json
+          head -n 5 profile.json
 
       - name: Update README
         run: |
-          LEAGUE=$(jq -r '.currentCourse.league' profile.json)
+          LEAGUE=$(jq -r '.currentCourse?.league // .courses?[0]?.league // empty' profile.json)
+
+          if [ -z "$LEAGUE" ]; then
+            echo "League not found, skipping update"
+            exit 0
+          fi
+
           sed -i "s/{{DUOLINGO_LEAGUE}}/${LEAGUE}/g" README.md
 
       - name: Commit changes
