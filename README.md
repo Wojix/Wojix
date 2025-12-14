@@ -12,11 +12,15 @@ Discord #xwqjix <br> Wojix2025@outlook.com
 ## ⛏️ Minecraft
 Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https://www.xbox.com/en-US/Profile?gamertag=quqxxd)
 
-## 📖I studying
+## 📖 I studying
 - **[Python](https://www.python.org/)**
 - **[JavaScript](https://tc39.es/)**
 - **[html](https://html.spec.whatwg.org/)**
 - **[C++](https://isocpp.org/)**
+
+## 🏆 Statistics
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojix&layout=compact" />
 
 ↓copy the ``thinking``
 ```txt
