@@ -2,35 +2,46 @@ name: Update Duolingo League
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+    - cron: "0 */6 * * *" # 6時間ごとに実行
+  workflow_dispatch: # 手動実行用
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
+    steps:
+      # リポジトリをチェックアウト
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Cloudflare Workers からリーグ情報を取得
       - name: Fetch league from Workers
         run: |
           curl -s https://duolingo.wojix.workers.dev/ > league.json
+          echo "=== league.json ==="
           cat league.json
 
+      # README を更新
       - name: Update README
         run: |
-          LEAGUE=$(jq -r '.league // empty' league.json)
+          # JSONが object のときだけ .league を読む（jq爆死防止）
+          LEAGUE=$(jq -r 'if type=="object" then .league else empty end' league.json)
 
-          if [ -z "$LEAGUE" ]; then
-            echo "league not found"
+          # league が null / 空なら何もしない
+          if [ -z "$LEAGUE" ] || [ "$LEAGUE" = "null" ]; then
+            echo "league is null or missing"
             exit 0
           fi
 
+          # README のプレースホルダを置換
           sed -i "s/{{DUOLINGO_LEAGUE}}/${LEAGUE}/g" README.md
 
+      # 変更をコミットして push
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+
           git add README.md
           git commit -m "update: duolingo league" || exit 0
           git push
