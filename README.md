@@ -19,10 +19,8 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
 - **[C++](https://isocpp.org/)**
 
 ## 🏆 Statistics
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Wojix" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojix" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Wojix&layout=pie)
+![github stats](https://github-readme-stats.vercel.app/api?username=Wojix)
 
 ## 🤔 Thinking
 ↓copy the ``thinking``
