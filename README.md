@@ -24,6 +24,7 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojix&layout=compact" />
 </div>
 
+## 🤔 Thinking
 ↓copy the ``thinking``
 ```txt
 :thinking:
