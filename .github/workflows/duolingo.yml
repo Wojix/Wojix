@@ -1,0 +1,36 @@
+name: Update Duolingo League
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch league from Workers
+        run: |
+          curl -s https://duolingo.wojix.workers.dev/ > league.json
+          cat league.json
+
+      - name: Update README
+        run: |
+          LEAGUE=$(jq -r '.league // empty' league.json)
+
+          if [ -z "$LEAGUE" ]; then
+            echo "league not found"
+            exit 0
+          fi
+
+          sed -i "s/{{DUOLINGO_LEAGUE}}/${LEAGUE}/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "update: duolingo league" || exit 0
+          git push
