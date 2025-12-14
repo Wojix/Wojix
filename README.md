@@ -18,5 +18,5 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
 - **[html](https://html.spec.whatwg.org/)**
 - **[C++](https://isocpp.org/)**
 
+🤔 `:thinking:`
 Thanks for stopping by!
-![thinking](https://avatars.githubusercontent.com/u/243921422?s=400&u=464e297efc285ac70fcd5b6f060a012ca70ea40d&v=4)
