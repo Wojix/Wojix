@@ -20,7 +20,7 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
 
 ## 🏆 Statistics
 ![github stats](https://github-readme-stats.vercel.app/api?username=Wojix)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Wojix&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Wojix&layout=compact)
 
 ## 🤔 Thinking
 ↓copy the ``thinking``
