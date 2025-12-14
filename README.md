@@ -21,7 +21,7 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
 ## 🏆 Statistics
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Wojix" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojix&layout=Pie" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojix&layout=compact" />
     <img scr="https://github-readme-stats.vercel.app/api?username=Wojix&commits_year=2025" />
 </div>
 
