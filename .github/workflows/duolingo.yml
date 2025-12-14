@@ -20,8 +20,8 @@ jobs:
 
       - name: Debug response
         run: |
-          file profile.json
-          head -n 5 profile.json
+          echo "===== profile.json ====="
+          sed -n '1,40p' profile.json
 
       - name: Update README
         run: |
