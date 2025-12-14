@@ -10,7 +10,7 @@ Discord #xwqjix <br> Wojix2025@outlook.com
  [Padlet](https://padlet.com/thinkingface) <br> [Scratch](https://scratch.mit.edu/users/-Wojix-/)
 
 ## ⛏️ Minecraft
-Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https://www.xbox.com/en-US/Profile?gamertag=quqx%20xd)
+Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https://www.xbox.com/en-US/Profile?gamertag=quqxxd)
 
 ## 📖I studying
 - **Python**
