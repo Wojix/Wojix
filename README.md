@@ -13,10 +13,10 @@ Discord #xwqjix <br> Wojix2025@outlook.com
 Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https://www.xbox.com/en-US/Profile?gamertag=quqxxd)
 
 ## 📖I studying
-- **Python**
-- **JavaScript**
-- **html**
-- **C++**
+- **[Python](https://www.python.org/)**
+- **[JavaScript](https://tc39.es/)**
+- **[html](https://html.spec.whatwg.org/)**
+- **[C++](https://isocpp.org/)**
 
 Thanks for stopping by!
 ![thinking](https://avatars.githubusercontent.com/u/243921422?s=400&u=464e297efc285ac70fcd5b6f060a012ca70ea40d&v=4)
