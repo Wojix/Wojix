@@ -4,7 +4,7 @@
 I primarily code in HTML, Python, and C++.
 
 ## 💼 WIP
-
+![](https://github-readme-stats.vercel.app/api/pin/?username=Wojix&repo=Wojix.github.io)
 
 
 ## ✉️ Contact
