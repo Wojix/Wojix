@@ -3,6 +3,10 @@
 ## ℹ️ About me
 I primarily code in HTML, Python, and C++.
 
+## 💼 WIP
+Now not working
+
+
 ## ✉️ Contact
 Discord #xwqjix <br> Wojix2025@outlook.com
 
