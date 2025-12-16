@@ -4,7 +4,7 @@
 I primarily code in HTML, Python, and C++.
 
 ## 💼 WIP
-Now not working
+
 
 
 ## ✉️ Contact
@@ -23,12 +23,11 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
 - **[C++](https://isocpp.org/)**
 
 ## 🏆 Statistics
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Wojix&show_icons=true&rank_icon=github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wojix" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Wojix&show_icons=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Wojix)
+
 ### duolingo league
-**{{DUOLINGO_LEAGUE}}**
+    🟪 Amethyst
 
 ## 🤔 Thinking
 ↓copy the ``thinking``
