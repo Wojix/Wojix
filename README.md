@@ -1,4 +1,4 @@
-# Hi, I'm **[Wojix](https://github.com/Wojix)** 👋
+# Hi, I'm **[Wojix](https://github.com/Wojix)** 👋 :octocat:
 
 # ℹ️ About me
 I primarily code in HTML, Python, and C++.
