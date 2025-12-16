@@ -1,6 +1,6 @@
 # Hi, I'm **[Wojix](https://github.com/Wojix)** 👋
 
-# ℹ️ About me
+## ℹ️ About me
 I primarily code in HTML, Python, and C++.
 
 ## ✉️ Contact
