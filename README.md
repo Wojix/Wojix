@@ -27,7 +27,7 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Wojix)
 
 ### duolingo league
-    🟪 Amethyst
+🟪 Amethyst
 
 ## 🤔 Thinking
 ↓copy the ``thinking``
