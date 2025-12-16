@@ -1,4 +1,4 @@
-# Hi, I'm **[Wojix](https://github.com/Wojix)** 👋![](https://github.githubassets.com/images/icons/emoji/octocat.png)
+# Hi, I'm **[Wojix](https://github.com/Wojix)** 👋
 
 # ℹ️ About me
 I primarily code in HTML, Python, and C++.
@@ -30,3 +30,4 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
 :thinking:
 ```
 🤔 <br> Thanks for stopping by!
+![](https://github.githubassets.com/images/icons/emoji/octocat.png)
