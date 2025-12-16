@@ -32,4 +32,3 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
 :thinking:
 ```
 🤔 <br> Thanks for stopping by!
-![](https://github.githubassets.com/images/icons/emoji/octocat.png)
