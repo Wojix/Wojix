@@ -35,3 +35,5 @@ Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https:/
 :thinking:
 ```
 🤔 <br> Thanks for stopping by!
+
+![](https://count.getloli.com/@wojix?name=wojix&theme=miku&padding=7&offset=0&align=top&scale=2&pixelated=0&darkmode=auto)
