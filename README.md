@@ -11,7 +11,7 @@ I primarily code in HTML, Python, and C++.
 Discord #xwqjix <br> Wojix2025@outlook.com
 
 ## 🌎 Social
-[bento](https://bento.me/wojix) <br> <br> [Duolingo](https://www.duolingo.com/profile/QuqzXD)
+[Coffee☕](https://buymeacoffee.com/wojix) <br> <br> [Duolingo](https://www.duolingo.com/profile/Wojicle)
  
 ## ⛏️ Minecraft
 Java    [Quqz](https://ja.namemc.com/profile/quqz) <br> Bedrock [QuqxXD](https://www.xbox.com/en-US/Profile?gamertag=quqxxd)
